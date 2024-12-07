@@ -1,0 +1,19 @@
+.line-container {
+    width: 100%;
+    height: 40px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line {
+    background-color: rgba(255, 255, 255, 1);
+
+    margin: 0 auto;
+
+    width: 90%;
+    height: 2px;
+
+    border-radius: 3px;
+}

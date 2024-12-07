@@ -1,0 +1,60 @@
+.button {
+    color: #fff;
+
+    width: 100%;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 0.8em;
+    color: white;
+
+    margin: 5px 9px;
+    padding: 0;
+}
+
+.button.disabled h1 {
+    color: pink !important;
+}
+
+.button.disabled .lock-icon {
+    display: block;
+}
+
+.lock-icon {
+    display: none;
+    position: absolute;
+    right: 10px;
+    fill: pink;
+    width: 16px;
+    height: 16px;
+}
+
+.item-selected {
+    background-color: #d0d2d6;
+}
+
+.item-selected h1 {
+    color: #000;
+}
+
+.right-label {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 0.8em;
+    color: white;
+
+    margin: 5px 9px;
+    padding: 0;
+    margin-left: 10px;
+}
+
+.item-selected .right-label {
+    color: black;
+}
