@@ -14,3 +14,9 @@ Bisous à Imposteur pour l'aide ! Niquez vos mères à essayer de faire des sous
 
 
 PREVIEW : https://streamable.com/f6b5h1
+
+
+discord.gg/chinaleak pour les pushs ! 
+
+# N'OUBLIEZ PAS DE DECLARER LE EXAMPLE DANS LE FXMANIFEST !
+# N'OUBLIEZ PAS DE DECLARER LE EXAMPLE DANS LE FXMANIFEST !
